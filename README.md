@@ -32,3 +32,6 @@ python VO.py
 Tips :
 make sure you are given correct path for the input images
 calibration parameter needs to correct one
+
+Future Steps:
+extend the process to stereo camera
